@@ -8,7 +8,7 @@ Repository containing the usual and latest **Whitehole** versions used for **SMG
 
 **Liberica JDK Download Center** --> https://bell-sw.com/pages/downloads/
 
-# IMPORTANT
+# Important
 
 **Windows users:** 
 
