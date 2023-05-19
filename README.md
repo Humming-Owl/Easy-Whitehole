@@ -9,7 +9,9 @@ All credit goes to the creators/mantainers/developers of these **Whitehole** ver
 
 # IMPORTANT
 
-**Windows users:** Use **7zip** to extract the contents of the **7Z** files shared --> https://7-zip.org/download.html
+**Windows users:** 
+
+Use **7zip** to extract the contents of the **7Z** files shared --> https://7-zip.org/download.html
 
 # Whitehole List
 
