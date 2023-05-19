@@ -5,6 +5,7 @@ Repository containing the usual and latest **Whitehole** versions used for **SMG
 All credit goes to the creators/mantainers/developers of these **Whitehole** versions. I just packed them into a nice **7Z** compressed file so you can use the programs without having to set up **Java** (*Epik Java*). Also thanks to the **Adoptium** and **Liberica JDK Download Center** for the binary releases of **JRE 8 and 17** which are used in each compressed package shared.
 
 **Adoptium** --> https://adoptium.net/download/
+
 **Liberica JDK Download Center** --> https://bell-sw.com/pages/downloads/
 
 # IMPORTANT
