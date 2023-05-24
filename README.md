@@ -21,6 +21,15 @@ Use **7zip** to extract the contents of the **7Z files** shared --> https://7-zi
 - Inside each **Whitehole folder** there is a `Whitehole-[Version].bat` file, double click on it and it should open right away!
 - There is also an `UpdateObjectDatabase.bat` file on some **Whiteholes** (**v1.6** and **v1.7** specifically), double click on it to update the **Object Database**.
 
+# Notes
+
+- For absolute beginners Whitehole Despag is the one recommeded. When you get more familiarized with SMG modding you can test the other editors.
+- Whitehole v1.7 can't open Galaxies that have unused zones. You have to manually delete unused zones of a Galaxy --> 
+- New Object Databases do not work on Whitehole for SMG1.
+- Whitehole v1.7 does not render well Galaxies under Integrated Intel Graphics (screen is black while you don't move in the editor).
+- Whitehole Despag will update the Object Database automatically each time you run the program (don't worry about updating it manually).
+- Whitehole for SMG1 is only used for its Scenario editor that works with SMG1.
+
 
 # Whitehole List
 
