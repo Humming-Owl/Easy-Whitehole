@@ -33,7 +33,7 @@ Use **7zip** to extract the contents of the **7Z files** shared --> https://7-zi
 
 # Whitehole List
 
-- Whitehole Despag (JRE 17 - https://github.com/SunakazeKun/Whitehole-Despaghettification)
-- Whitehole v1.7 (JRE 17 - https://github.com/TheSunCat/Whitehole)
-- Whitehole v1.6 (JRE 8 - https://github.com/TheSunCat/Whitehole)
-- Whitehole for SMG1 (JRE 8 - https://github.com/SunakazeKun/Whitehole-for-SMG1)
+- Whitehole Despag (**JRE 17** - https://github.com/SunakazeKun/Whitehole-Despaghettification)
+- Whitehole v1.7 (**JRE 17** - https://github.com/TheSunCat/Whitehole)
+- Whitehole v1.6 (**JRE 8** - https://github.com/TheSunCat/Whitehole)
+- Whitehole for SMG1 (**JRE 8** - https://github.com/SunakazeKun/Whitehole-for-SMG1)
