@@ -24,7 +24,7 @@ Use **7zip** to extract the contents of the **7Z files** shared --> https://7-zi
 # Notes
 
 - For absolute beginners **Whitehole Despag** is the one recommeded. When you get more familiarized with SMG modding you can test the other editors.
-- **Whitehole v1.7** can't open Galaxies that have unused zones. You have to manually delete unused zones of a Galaxy. As a quick workaround open the Galaxy you can't open on **Whitehole v1.7** in **Whitehole Despag** and immediately hit **Save** (`File > Save`), then, you will be able to open said Galaxy on **Whitehole v1.7**.
+- **Whitehole v1.7** can't open Galaxies that have unused zones. You have to manually delete unused zones of a Galaxy. *As a quick workaround*, open the Galaxy you can't open on **Whitehole v1.7** in **Whitehole Despag** and immediately hit **Save** (`File > Save`), then, you will be able to open said Galaxy on **Whitehole v1.7**.
 - New Object Databases do not work on **Whitehole for SMG1** (program crashes).
 - **Whitehole v1.7** does not render well Galaxies under Integrated Intel Graphics (screen is black while you don't move in the editor).
 - **Whitehole Despag** will update the Object Database automatically each time you run the program (don't worry about updating it manually).
