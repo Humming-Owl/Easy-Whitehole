@@ -32,7 +32,7 @@ Use **7zip** to extract the contents of the **7Z files** shared --> https://7-zi
 - **Whitehole Despag** does not render gravity areas because the gravity rendering has never been accurate on any Whitehole.
 
 
-# Whitehole List
+# Whitehole List (latest functional release)
 
 - Whitehole Despag (Was built with **JRE 17** - https://github.com/SunakazeKun/Whitehole-Despaghettification)
 - Whitehole v1.7 (Was built with **JRE 17** - https://github.com/TheSunCat/Whitehole)
