@@ -29,6 +29,7 @@ Use **7zip** to extract the contents of the **7Z files** shared --> https://7-zi
 - **Whitehole v1.7** does not render well Galaxies under Integrated Intel Graphics (screen is black while you don't move in the editor).
 - **Whitehole Despag** will update the Object Database automatically each time you run the program (don't worry about updating it manually).
 - **Whitehole for SMG1** is only used for its Scenario editor that works with SMG1.
+- **Whitehole Despag** does not render gravity areas because the gravity rendering has never been accurate on any Whitehole.
 
 
 # Whitehole List
