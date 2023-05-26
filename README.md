@@ -24,7 +24,7 @@ Repository containing the usual and latest **Whitehole** versions used for **SMG
   *As a quick workaround*, open the Galaxy you can't open on **Whitehole v1.7** in **Whitehole Despag** and immediately hit **Save** (`File > Save`), then, you will be able to open said Galaxy on **Whitehole v1.7**.
   
 - New Object Databases do not work on **Whitehole for SMG1** (program crashes).
-- **Whitehole v1.7** does not render well Galaxies under Integrated Intel Graphics in Windows (screen is black while you don't move in the editor - I've seen this happening with a few computers).
+- **Whitehole v1.7** does not render well Galaxies under **Integrated Intel Graphics** in Windows (screen is black while you don't move in the editor - I've seen this happening with a few computers).
   
   *As a workaround* (**BE CAREFULL WITH THIS**) you can download the **Mesa3D implementation of OpenGL** for your Windows platform from here (32 or 64 bits) --> https://fdossena.com/?p=mesa/index.frag
   
