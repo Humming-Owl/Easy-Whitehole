@@ -29,7 +29,7 @@ Repository containing the usual and latest **Whitehole** versions used for **SMG
   
 - **Whitehole v1.7** does not render well Galaxies under **Integrated Intel Graphics** in Windows (screen is black while you don't move in the editor - I've seen this happening with a few computers).
   
-  *As a workaround* (**BE CAREFULL WITH THIS - USE ONLY IF NEEDED AND IF YOU KNOW WHAT YOU ARE DOING**) you can download the **Mesa3D implementation of OpenGL** for your Windows platform from here (32 or 64 bits) --> https://fdossena.com/?p=mesa/index.frag
+  *As a posible workaround* (**BE CAREFULL WITH THIS - USE ONLY IF NEEDED AND IF YOU KNOW WHAT YOU ARE DOING**) you can download the **Mesa3D implementation of OpenGL** for your Windows platform from here (32 or 64 bits) --> https://fdossena.com/?p=mesa/index.frag
   
   Then rename the `opengl32.dll` located at `C:\Windows\System32` to `opengl32_original.dll` (for example) and copy the `opengl32.dll` file from the package mentioned above into `C:\Windows\System32` or in the `jre\17\Win[Architecture]\bin` folder of the Whitehole tool downloaded.
   
