@@ -8,16 +8,11 @@ Repository containing the usual and latest **Whitehole** versions used for **SMG
 
 **Liberica JDK Download Center** --> https://bell-sw.com/pages/downloads/
 
-# Important
-
-**Windows users:** 
-
-Use **7zip** to extract the contents of the **7Z files** shared --> https://7-zip.org/download.html
-
 # Usage
 
 **Windows users:** 
 
+- Use **7zip** to extract the contents of the **7Z files** shared --> https://7-zip.org/download.html
 - Inside each **Whitehole folder** there is a `Whitehole-[Version].bat` file, double click on it and it should open right away!
 - There is also an `UpdateObjectDatabase.bat` file on some **Whiteholes** (**v1.6** and **v1.7** specifically), double click on it to update the **Object Database**.
 
