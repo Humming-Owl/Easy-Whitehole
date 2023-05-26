@@ -21,12 +21,15 @@ Use **7zip** to extract the contents of the **7Z files** shared --> https://7-zi
 - Inside each **Whitehole folder** there is a `Whitehole-[Version].bat` file, double click on it and it should open right away!
 - There is also an `UpdateObjectDatabase.bat` file on some **Whiteholes** (**v1.6** and **v1.7** specifically), double click on it to update the **Object Database**.
 
-# Notes
+# IMPORTANT NOTES
 
 - For absolute beginners **Whitehole Despag** is the one recommeded. When you get more familiarized with SMG modding you can test the other editors.
-- **Whitehole v1.7** can't open Galaxies that have unused zones. You have to manually delete unused zones of a Galaxy. *As a quick workaround*, open the Galaxy you can't open on **Whitehole v1.7** in **Whitehole Despag** and immediately hit **Save** (`File > Save`), then, you will be able to open said Galaxy on **Whitehole v1.7**.
+- **Whitehole v1.7** can't open Galaxies that have unused zones. You have to manually delete unused zones of a Galaxy. 
+  *As a quick workaround*, open the Galaxy you can't open on **Whitehole v1.7** in **Whitehole Despag** and immediately hit **Save** (`File > Save`), then, you will be able to open said Galaxy on **Whitehole v1.7**.
 - New Object Databases do not work on **Whitehole for SMG1** (program crashes).
-- **Whitehole v1.7** does not render well Galaxies under Integrated Intel Graphics (screen is black while you don't move in the editor).
+- **Whitehole v1.7** does not render well Galaxies under Integrated Intel Graphics in Windows (screen is black while you don't move in the editor - I've seen this happening with a few computers).
+  *As a workaround* (**BE CAREFULL WITH THIS**) you can download the **Mesa3D implementation of OpenGL** for your Windows platform from here (32 or 64 bits) --> https://fdossena.com/?p=mesa/index.frag
+  Then rename the `opengl32.dll` located at `C:\Windows\System32` to `opengl32_original.dll` (for example) and copy the `opengl32.dll` file from the package mentioned above into `C:\Windows\System32` or in the `jre\17\Win[Architecture]\bin` folder of the Whitehole tool downloaded.
 - **Whitehole Despag** will update the Object Database automatically each time you run the program (don't worry about updating it manually).
 - **Whitehole for SMG1** is only used for its Scenario editor that works with SMG1.
 - **Whitehole Despag** does not render gravity areas because the gravity rendering has never been accurate on any Whitehole.
