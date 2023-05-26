@@ -18,7 +18,7 @@ Repository containing the usual and latest **Whitehole** versions used for **SMG
 
 **Linux Users:**
 
-- Your default file extractor should be able to decompress **TAR.XZ** files.
+- Your default file extractor should be able to decompress **TAR.XZ files**.
 - Inside each **Whitehole folder** there is a `Whitehole-[Version].sh` file, run it in the terminal and the program should open right away!
 - There is also an `UpdateObjectDatabase.sh` file on some **Whiteholes** (**v1.6** and **v1.7** specifically), execute it to update the **Object Database** (requires `wget`).
 
