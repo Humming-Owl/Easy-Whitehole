@@ -19,6 +19,9 @@ Repository containing the usual and latest **Whitehole** versions used for **SMG
 # IMPORTANT NOTES
 
 - For absolute beginners **Whitehole Despag** is the one recommeded. When you get more familiarized with SMG modding you can test the other editors.
+- **Whitehole Despag** will update the Object Database automatically each time you run the program (don't worry about updating it manually).
+- **Whitehole for SMG1** is only used for its Scenario editor that works with SMG1.
+- **Whitehole Despag** does not render gravity areas because the gravity rendering has never been accurate on any Whitehole.
 - **Whitehole v1.7** can't open Galaxies that have unused zones. You have to manually delete unused zones of a Galaxy. 
   
   *As a quick workaround*, open the Galaxy you can't open on **Whitehole v1.7** in **Whitehole Despag** and immediately hit **Save** (`File > Save`), then, you will be able to open said Galaxy on **Whitehole v1.7**.
@@ -35,11 +38,6 @@ Repository containing the usual and latest **Whitehole** versions used for **SMG
   *If pasted on `jre\17\Win[Architecture]\bin`* OpenGL will be only used by **Whitehole v1.7** (in "Software Mode", slow) and other programs that rely on OpenGL won't work on the system.
   
   **To revert the changes and get your original OpenGL setup** you just need to rename the `opengl32_original.dll` mentioned above to `opengl32.dll` (**be sure to always have a copy of the original `opengl32.dll` file of your Windows installation**).
-  
-- **Whitehole Despag** will update the Object Database automatically each time you run the program (don't worry about updating it manually).
-- **Whitehole for SMG1** is only used for its Scenario editor that works with SMG1.
-- **Whitehole Despag** does not render gravity areas because the gravity rendering has never been accurate on any Whitehole.
-
 
 # Whitehole List (latest functional release)
 
