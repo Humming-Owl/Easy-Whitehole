@@ -26,15 +26,15 @@ Repository containing the usual and latest **Whitehole** versions used for **SMG
 - New Object Databases do not work on **Whitehole for SMG1** (program crashes).
 - **Whitehole v1.7** does not render well Galaxies under **Integrated Intel Graphics** in Windows (screen is black while you don't move in the editor - I've seen this happening with a few computers).
   
-  *As a workaround* (**BE CAREFULL WITH THIS**) you can download the **Mesa3D implementation of OpenGL** for your Windows platform from here (32 or 64 bits) --> https://fdossena.com/?p=mesa/index.frag
+  *As a workaround* (**BE CAREFULL WITH THIS - USE ONLY IF NEEDED AND IF YOU KNOW WHAT YOU ARE DOING**) you can download the **Mesa3D implementation of OpenGL** for your Windows platform from here (32 or 64 bits) --> https://fdossena.com/?p=mesa/index.frag
   
   Then rename the `opengl32.dll` located at `C:\Windows\System32` to `opengl32_original.dll` (for example) and copy the `opengl32.dll` file from the package mentioned above into `C:\Windows\System32` or in the `jre\17\Win[Architecture]\bin` folder of the Whitehole tool downloaded.
   
-  *If pasted on `C:\Windows\System32`* Windows will run OpenGL in "Software Mode" (i.e. not using the GPU hardware) and **ALL** programs that rely on OpenGL on Windows will run slower because of this (including Whitehole v1.7).
+  *If pasted on `C:\Windows\System32`* Windows will run OpenGL in "Software Mode" (not using the GPU hardware) and **ALL** programs that rely on OpenGL on Windows will run slower because of this (including **Whitehole v1.7**).
   
-  *If pasted on `jre\17\Win[Architecture]\bin`* OpenGL will be only used by Whitehole v1.7 (in "Software Mode", slow) and no other program that rely on OpenGL to work will work on the system.
+  *If pasted on `jre\17\Win[Architecture]\bin`* OpenGL will be only used by **Whitehole v1.7** (in "Software Mode", slow) and other programs that rely on OpenGL won't work on the system.
   
-  **To revert the changes and get your OG OpenGL setup** you just need to rename the `opengl32_original.dll` mentioned above to `opengl32.dll`.
+  **To revert the changes and get your OG OpenGL setup** you just need to rename the `opengl32_original.dll` mentioned above to `opengl32.dll` (**be sure to always have a copy of the original `opengl32.dll` file of your Windows installation**).
   
 - **Whitehole Despag** will update the Object Database automatically each time you run the program (don't worry about updating it manually).
 - **Whitehole for SMG1** is only used for its Scenario editor that works with SMG1.
