@@ -22,7 +22,7 @@ Repository containing the usual and latest **Whitehole** versions used for **SMG
 - **Whitehole Despag** will update the Object Database automatically each time you run the program (don't worry about updating it manually).
 - **Whitehole for SMG1** is only used for its Scenario editor that works with SMG1.
 - **Whitehole Despag** does not render gravity areas because the gravity rendering has never been accurate on any Whitehole.
-- Newer Object Databases do not work on **Whitehole for SMG1** (program crashes).
+- **Newer Object Databases** do not work on **Whitehole for SMG1** (program crashes).
 - **Whitehole v1.7** can't open Galaxies that have unused zones. You have to manually delete unused zones of a Galaxy. 
   
   *As a quick workaround*, open the Galaxy you can't open on **Whitehole v1.7** in **Whitehole Despag** and immediately hit **Save** (`File > Save`), then, you will be able to open said Galaxy on **Whitehole v1.7**.
@@ -41,7 +41,7 @@ Repository containing the usual and latest **Whitehole** versions used for **SMG
 
 # Whitehole List (latest functional release)
 
-- Whitehole Despag (Was built with **JRE 17** - https://github.com/SunakazeKun/Whitehole-Despaghettification)
-- Whitehole v1.7 (Was built with **JRE 17** - https://github.com/TheSunCat/Whitehole)
-- Whitehole v1.6 (Was built with **JRE 8** - https://github.com/TheSunCat/Whitehole)
-- Whitehole for SMG1 (Was built with **JRE 8** - https://github.com/SunakazeKun/Whitehole-for-SMG1)
+- Whitehole Despag (was built with **JRE 17** - https://github.com/SunakazeKun/Whitehole-Despaghettification)
+- Whitehole v1.7 (was built with **JRE 17** - https://github.com/TheSunCat/Whitehole)
+- Whitehole v1.6 (was built with **JRE 8** - https://github.com/TheSunCat/Whitehole)
+- Whitehole for SMG1 (was built with **JRE 8** - https://github.com/SunakazeKun/Whitehole-for-SMG1)
