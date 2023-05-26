@@ -35,11 +35,11 @@ Use **7zip** to extract the contents of the **7Z files** shared --> https://7-zi
   
   Then rename the `opengl32.dll` located at `C:\Windows\System32` to `opengl32_original.dll` (for example) and copy the `opengl32.dll` file from the package mentioned above into `C:\Windows\System32` or in the `jre\17\Win[Architecture]\bin` folder of the Whitehole tool downloaded.
   
-  If pasted on `C:\Windows\System32` Windows will run OpenGL in "Software Mode" (i.e. not using the GPU hardware) and **ALL** programs that rely on OpenGL on Windows will run slower because of this (including Whitehole v1.7).
+  *If pasted on `C:\Windows\System32`* Windows will run OpenGL in "Software Mode" (i.e. not using the GPU hardware) and **ALL** programs that rely on OpenGL on Windows will run slower because of this (including Whitehole v1.7).
   
-  If pasted on `jre\17\Win[Architecture]\bin` OpenGL will be only used by Whitehole v1.7 (in "Software Mode", slow) and no other program that rely on OpenGL to work will work on the system.
+  *If pasted on `jre\17\Win[Architecture]\bin`* OpenGL will be only used by Whitehole v1.7 (in "Software Mode", slow) and no other program that rely on OpenGL to work will work on the system.
   
-  To revert 
+  **To revert the changes and get your OG OpenGL setup** you just need to rename the `opengl32_original.dll` mentioned above to `opengl32.dll`.
   
 - **Whitehole Despag** will update the Object Database automatically each time you run the program (don't worry about updating it manually).
 - **Whitehole for SMG1** is only used for its Scenario editor that works with SMG1.
